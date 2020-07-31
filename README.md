@@ -1,2 +1,2 @@
-# toothbrushfactory
+# Toothbrushfactory
 the website of Sam and Gupta
